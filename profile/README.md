@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# VAGbit
-
-### Automotive Electronics. Decoded.
-
+<img src="VAGbit%20by%20VCT%20logo.png"
+       alt="VAGbit by VCT"
+       width="450">
+       
 **Smart automotive electronics, CAN bus solutions and embedded technology.**
 
 A technology brand by **VAGCoding Twente**
